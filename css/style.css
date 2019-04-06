@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main {
+	width: 100%;
+	height: 70px;
+	background-color: #4fc3f7;
+}
+
+.textexam {
+	width: 50%;
+	height: 150px;
+	background-color: #c6ff00;
+	margin: 0 auto;
+}
+
+.background {
+	background-color: orange;
+	width: 100%;
+	height: 50px;
+	color: black;
+	text-align: center;
+}
+
+.ozero {
+	background-color: red;
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	color: black;
+}
+
